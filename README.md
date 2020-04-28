@@ -10,6 +10,6 @@ Albert's site has been dead for years but I still have the installer for version
 I am putting it here because I got tired of searching through CDs & DVDs everytime I
 want to install it on a new system.
 
-I hope if he sees this he's not upset, but here it is (coming soon)
+I hope if he sees this he's not upset, but here it is: renamer60.exe
 
 Installer works in windows enviroment only, x32 & 64.
