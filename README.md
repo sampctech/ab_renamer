@@ -13,3 +13,5 @@ want to install it on a new system.
 I hope if he sees this he's not upset, but here it is: renamer60.exe
 
 Installer works in windows enviroment only, x32 & 64.
+
+Does NOT WORK w/ Windows 11
